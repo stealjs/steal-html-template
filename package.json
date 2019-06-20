@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "can-define": "^1.0.16",
-    "steal": "^1.2.9",
-    "steal-tools": "^1.1.2",
+    "can-define": "^2.7.18",
+    "steal": "^2.2.1",
+    "steal-tools": "^2.2.2",
     "weston": "^0.2.0"
   },
   "steal": {
